@@ -5,7 +5,7 @@ A passionate Frontend Developer and creative UI/UX designer, Cybersecurity enthu
     Graphic Design fundamentals with Photoshop
     UI/UX design with Figma
 
-![Deru's GitHub stats](https://github-readme-stats.vercel.app/api?username=deru&show_icons=true&theme=transparent)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/deru-hawulah-nakato) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hawiedn8@gmail.com) 
