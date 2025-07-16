@@ -1,4 +1,10 @@
-## Hi there 👋
+##👋 Hi, I’m Deru Hawulah Nakato
+A passionate Frontend Developer and creative UI/UX designer, Cybersecurity enthusiast based in Kampala, Uganda. I enjoy building clean, accessible, and user-centered web interfaces using React, JavaScript, and Next.js.
+
+🌱 What I'm Currently Learning
+    Graphic Design fundamentals with Photoshop
+    UI/UX design with Figma
+
 
 <!--
 **deruhawulahnakato/deruhawulahnakato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://github.com/deruhawulahnakato" alt="Visitor's Count" />
-</div>
