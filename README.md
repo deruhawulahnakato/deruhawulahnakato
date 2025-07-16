@@ -7,6 +7,9 @@ A passionate Frontend Developer and creative UI/UX designer, Cybersecurity enthu
 
  [![Deru's GitHub stats](https://github-readme-stats.vercel.app/api?username=deruhawulahnakato)](https://github.com/deruhawulahnakato/github-readme-stats)
  ![Deru's GitHub stats](https://github-readme-stats.vercel.app/api?username=deruhawulahnakato&hide=contribs,prs)
+![Deru's GitHub stats](https://github-readme-stats.vercel.app/api?username=deruhawulahnakato&show_icons=true)
+![Deru's GitHub stats](https://github-readme-stats.vercel.app/api?username=deru&show_icons=true&theme=radical)
+ 
 <!--
 **deruhawulahnakato/deruhawulahnakato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
