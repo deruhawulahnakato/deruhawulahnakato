@@ -6,6 +6,7 @@ A passionate Frontend Developer and creative UI/UX designer, Cybersecurity enthu
     UI/UX design with Figma
 
  [![Deru's GitHub stats](https://github-readme-stats.vercel.app/api?username=deruhawulahnakato)](https://github.com/deruhawulahnakato/github-readme-stats)
+ ![Deru's GitHub stats](https://github-readme-stats.vercel.app/api?username=deruhawulahnakato&hide=contribs,prs)
 <!--
 **deruhawulahnakato/deruhawulahnakato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
