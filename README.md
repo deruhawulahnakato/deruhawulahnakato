@@ -1,9 +1,10 @@
 👋 Hi, I’m Deru Hawulah Nakato
 A passionate Frontend Developer and creative UI/UX designer, Cybersecurity enthusiast based in Kampala, Uganda. I enjoy building clean, accessible, and user-centered web interfaces using React.
 
-🌱 What I'm Currently Learning
-    Graphic Design fundamentals with Photoshop
+🌱 What I'm Currently Exploring
+    Cybersecurity
     UI/UX design with Figma
+    Graphics Design with AdobePhotoshop and Adobe Illustrator
 
 
 
