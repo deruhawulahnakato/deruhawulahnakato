@@ -6,6 +6,9 @@ A passionate Frontend Developer and creative UI/UX designer, Cybersecurity enthu
     UI/UX design with Figma
     Graphics Design with AdobePhotoshop and Adobe Illustrator
 
+💬 Ask me about 
+    Product Design
+    Software Development
 
 
 ## 🌐 Socials:
