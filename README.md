@@ -3,8 +3,10 @@
 Frontend & Mobile Developer and UI/UX Designer based in Kampala, Uganda 🇺🇬  
 I build clean, accessible, user-centered web interfaces with **React** and **TypeScript**, build mobile apps with **React Native**, and design them in **Figma**. I'm also growing my skills in **cybersecurity**.
 
-💼 **Open to:** frontend, mobile and UI/UX roles and internships  
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/deru-hawulah-nakato) · [Email](mailto:deruhawulah@gmail.com)
+🌐 **Web design & development:** I design and build websites for businesses and individuals. See my work at [hawiederu.vercel.app](https://hawiederu.vercel.app/)
+
+💼 **Open to:** frontend, mobile and UI/UX roles, internships, and freelance web design & development projects  
+📫 **Reach me:** [Portfolio](https://hawiederu.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/deru-hawulah-nakato) · [Email](mailto:deruhawulah@gmail.com)
 
 ---
 
